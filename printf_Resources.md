@@ -16,14 +16,15 @@ Answer: For easier reading, function will not be as wordy/wall of text.
 
 3) Why do programmers use hexadecimal numbers?:
 Hexadecimal is base 16, where by A means 10 and so on until F means 15. (3:10 to 3:26 of https://www.youtube.com/watch?v=dPxCGlW9lfM)
+
 Learning to use hexadecimals is important for programming, as they are used very often in memory and network addresses to see where one byte ends and another byte begins.
 (4:30 to 5:12 of https://www.youtube.com/watch?v=dPxCGlW9lfM)
 
-4) What Is The Point Of Hexadecimal? (GCSE)
+5) What Is The Point Of Hexadecimal? (GCSE)
 Hexadecimals are used in error codes and error reports as hexadecimal words or numbers to help identify in one look what the report is about.
 (see 4:10 to 5:36 of https://www.youtube.com/watch?v=ViRR7qoeMpU)
 
-5) Variable Naming Convention
+6) Variable Naming Convention
     a) Use Descriptive Names: Variable names should be meaningful and describe the purpose of the variable.
     This makes your code self-explanatory. For example, instead of int x, use int numberOfStudents.
 
