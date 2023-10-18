@@ -1,7 +1,11 @@
 Variadic Functions:
+
 a) https://www.linkedin.com/pulse/modern-c-variadic-functions-how-shoot-yourself-foot-avoid-zinin
+
 b) https://medium.com/swlh/variadic-function-in-c-programming-d3632315a48e
+
 c) https://en.cppreference.com/w/c/variadic
+
 d) https://www.youtube.com/watch?v=Hb2m7htiKWM
 
  Points that can be brought up during Evaluation/Defence:
