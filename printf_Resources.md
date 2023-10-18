@@ -17,7 +17,7 @@ Answer: For easier reading, function will not be as wordy/wall of text.
 3) Why do programmers use hexadecimal numbers?:
 Hexadecimal is base 16, where by A means 10 and so on until F means 15. (3:10 to 3:26 of https://www.youtube.com/watch?v=dPxCGlW9lfM)
 
-Learning to use hexadecimals is important for programming, as they are used very often in memory and network addresses to see where one byte ends and another byte begins.
+4) Learning to use hexadecimals is important for programming, as they are used very often in memory and network addresses to see where one byte ends and another byte begins.
 (4:30 to 5:12 of https://www.youtube.com/watch?v=dPxCGlW9lfM)
 
 5) What Is The Point Of Hexadecimal? (GCSE)
